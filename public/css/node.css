@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  max-width: 500px;
+}
+
+#nodeschool-svg-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+svg {
+  max-width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+#battersea_chimney #pol1,
+#battersea_chimney #pol2,
+#chim-small1,
+#chim-small2,
+#clouds-left,
+#clouds {
+  visibility: hidden;
+}

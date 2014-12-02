@@ -1,0 +1,16 @@
+{
+  "name": "battersea-svg",
+  "version": "0.0.0",
+  "description": "Animated NodeSchool Battersea logo with Snap.svg",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon server.js"
+  },
+  "author": "Ericat",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.4.9",
+    "nodemon": "^1.2.1",
+    "jade": "^1.8.1"
+  }
+}
