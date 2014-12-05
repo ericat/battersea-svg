@@ -20,7 +20,7 @@ $(function() {
   var chimMain2 = canvas.select('#battersea_chimney polygon#pol2');
 
   var billboard = 'NODESCHOOL';
-  var textElement = canvas.text(349.125, 490, billboard).attr({fontSize: '1px', opacity: 0, fontFamily: 'Open Sans'});
+  var textElement = canvas.text(349.125, 490, billboard).attr({ fontSize: '1px', opacity: 0, fontFamily: 'Open Sans'});
 
   function animateBorder() {
     var path = document.querySelector('#polygon_border path');
